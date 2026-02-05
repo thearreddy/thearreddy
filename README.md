@@ -17,10 +17,12 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm Abhishek R Reddy
 
 ### 📊 GitHub Statistics
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=thearreddy&show_icons=true&theme=radical&count_private=true" alt="Abhishek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thearreddy&layout=compact&theme=radical" alt="Top Langs" />
+</p>
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thearreddy&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thearreddy&layout=compact&theme=radical)
+> **Note:** If images don't load, it may be a temporary API rate limit. They usually reappear after a refresh!
 
 ### 📩 Contact Details
 * **Email:** [ama252244@am.iitd.ac.in](mailto:ama252244@am.iitd.ac.in) [thearreddy@gmail.com](mailto:thearreddy@gmail.com`)
