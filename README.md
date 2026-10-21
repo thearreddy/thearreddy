@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 ### 📊 GitHub Statistics
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thearreddy&show_icons=true&theme=radical&count_private=true" alt="Abhishek's GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=thearreddy&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 
